@@ -9,5 +9,8 @@ public class Main {
 
         Cat cat = new Cat(2, "Barsik");
         cat.run();
+
+        Dog dog = new Dog(3, "Rex");
+        dog.run();
     }
 }
