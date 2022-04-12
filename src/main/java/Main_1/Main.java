@@ -6,5 +6,8 @@ public class Main {
 
         Animal animal = new Animal(1, "Bobik");
         animal.run();
+
+        Cat cat = new Cat(2, "Barsik");
+        cat.run();
     }
 }
